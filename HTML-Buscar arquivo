@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>arquivo.html</title>
+</head>
+<body>
+    <form>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" name="nome"></br>
+        <label for="arquivo">Arquivo:</label>
+        <input type="file" id="arquivo" name="arquivo"></br>
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>

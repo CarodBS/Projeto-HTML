@@ -1,0 +1,10 @@
+<html>
+<head>    
+    <title>Site</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+    Meu site favorito é: <a href="https://google.com.br">
+        Google</a>
+</body>
+</html>

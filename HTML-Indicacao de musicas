@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Musicas favoritas</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        Minhas musicas favoritas são:
+        <ul>
+            <li>Paulo Londra: Homerun
+            <li>Maluma: ADMV</li>
+        </ul>
+    </body>
+</html>

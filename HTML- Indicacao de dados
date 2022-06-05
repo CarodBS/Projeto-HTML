@@ -1,0 +1,10 @@
+<html>
+    <head>
+        <title>Nome e Idade</title>
+        <meta charset = "UTF-8">
+    </head>
+    <body>
+        <b>Nome do aluno</b><br>
+        Idade do aluno, ex: 24 anos
+    </body>
+    </html>

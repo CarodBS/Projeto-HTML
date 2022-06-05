@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title> Serie</title>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <video width="=320" height="240" controls>
+            <source src="serie.mp4" type="video/mp4">
+        </video>
+        <br>
+        Dezessete anos após ser presa injustamente, uma compositora talentosa busca justiça contra os homens que causaram sua queda e mataram sua familia. Vencedora do Emmy Internacional de Melhor Telenovela em 2019.
+    </body>
+</html>

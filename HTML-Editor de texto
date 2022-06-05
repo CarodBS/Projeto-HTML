@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>editor.html</title>
+    </head>
+    <body>
+        <form>
+            <h2>Meu Editor de Texto</h2>
+            <textarea name="editor">Bento Gonçalves é um município do estado do Rio Grande do Sul, no Brasil. Está localizado na Serra Gaúcha.</textarea><br>
+            <button type="submit">Salvar</button>
+        </form>
+    </body>
+</html>
