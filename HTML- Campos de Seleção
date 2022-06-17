@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<title>Seleção</title>
+	</head>
+	<body>
+		<header><h1>Campos de Seleção</h1></header>
+		<nav></nav>
+		<section>
+		<form method="post" action="#">
+			Qual aparelho voce possui?<br>
+			<input type="checkbox" name="notebook" value="sim"> Notebook<br>
+			<input type="checkbox" name="tablet" value="sim"> Tablet<br>
+			<input type="checkbox" name="celular" value="sim" checked> Celular<br>
+			Voce prefere:<br>
+			<input type="radio" name="sistema" value="android" checked> Android<br>
+			<input type="radio" name="sistema" value="ios"> IOs<br>
+		</form>
+		<form method="post" action="#">
+			Quantas horas por dia você utiliza os aparelhos citados acima?<br>
+			<select name="aparelhos">
+			<option value="até 2h">Até 2h</option>
+			<option value="até 5h">Até 5h</option>
+			<option value="Mais que 5h">Mais que 5h</option>
+		</section>
+		<form method="post" action="recebe.php">
+			<input type="date" name="data">
+		</form>
+		<form method="post" action="recebe.php">
+			<input type="range" name="faixa">
+		</form>
+		<form method="post" action="recebe.php">
+		Selecione sua cor favorita:<br>
+			<input type="color" name="color">
+		</form>
+		<form method="post" action="recebe.php">
+			enctype="multipart/form-data">
+			<input type="file" name="arquivo">
+		</form>
+		<footer></footer>
+	</body>
+</html>

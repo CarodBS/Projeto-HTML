@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title> Oi, mundo!</title>
+	</head>
+	<body>
+		<header><h1>A seguir, imagem, video e audio.
+		</h1></header>
+		<nav></nav>
+		<section>
+		<img src="imagem.jpg" title="foto x" height="400px">
+		</section>
+		<section><audio src="audiox.mp3"
+		controls></audio>
+		<section><video src="video.mp4" width="300"
+		controls></video>
+		<footer></footer>
+	</body>
+</html>

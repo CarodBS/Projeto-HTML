@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Barra de carregamento
+    </title>
+</head>
+<body>
+    <header><h1>Barra de carregamento
+    </h1></header>
+    <nav></nav>
+    <section>Carregando<br>
+    <progress></progress>
+</section>
+<footer></footer>
+</body>
+</html>

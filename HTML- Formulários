@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Formularios</title>
+    </head>
+    <body>
+        <header><h1>Formularios HTML</h1></header>
+        <nav></nav>
+        <section>
+		<form method="post" action="#">
+		Exemplo de campo habilitado: <input type="text" name= "Exemplo de campo habilitado" placeholder="Preencha este campo">
+		</form>
+		<form method="post" action="#">
+		Exemplo de campo desabilitado: <input type="text" name= "Exemplo de campo desabilitado" placeholder="Não é possível preencher" disabled>
+		</form>
+		<form method="post" = action="#">
+		Ex de campo para CPF: <input type="text" name="Ex de campo para CPF" maxlength="14" pattern="[0-9]{3}\.[0-9]{3}\.[0-9]{3}-[0-9]{2}">
+		</form>
+		<form method="post" = action="recebe.php">
+		Email: <input type="text" name="email"><br>
+		Senha: <input type="password" name="senha">
+		</form>
+		<form method="post" = action="recebe.php">
+		Descrição: <textarea name="descricao"></textarea>
+		</form>
+        </section>
+        <footer></footer>
+    </body>
+</html>

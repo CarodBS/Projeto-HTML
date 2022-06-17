@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>Rotulos e Secoes</title>
+    </head>
+    <body>
+        <header><h1>Exemplo de Rotulos e Secoes</h1></header>
+        <nav></nav>
+        <section>
+        <form method="post"action="#">
+		<fieldset>
+		<legend>Sexo:</legend>
+		<label for="homem">Homem</label>
+		<input type="radio" name="sexo"
+		id="homem"value="homem"><br>
+		<label for="mulher">Mulher</label>
+		<input type="radio" name="sexo"
+		id="mulher"value="mulher"><br>
+		</fieldset>	
+		</form>
+		<form method="post" action="#">
+		<fieldset>
+			<legend>Endereco do cliente</legend>
+			<label for="endereco">Endereco:</label>
+			<textarea id="endereco" name="endereco">Av. Brasil, 12 - Cidade - Estado</textarea>
+		</fieldset>	
+		</form>
+        </section>
+        <footer></footer>
+    </body>
+</html>
